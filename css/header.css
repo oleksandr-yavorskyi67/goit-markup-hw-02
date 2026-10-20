@@ -31,10 +31,10 @@
 
 .main-nav-link:hover,
 .main-nav-link:focus {
-  #404bbf;
+  color: #404bbf;
 }
 
-.adress {
+.adress-text {
   color: #434455;
 }
 
@@ -47,7 +47,7 @@
   color: #434455;
 }
 
-.address:hover,
-.adress:focus{
+.address-text:hover,
+.adress-text:focus {
   color: #404bbf;
 }
